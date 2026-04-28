@@ -14,7 +14,10 @@
             <a style="color:red; padding:1em; ; " href="/">Home</a>
             <a style="color:red; padding:1em; ; " href="/contact">Contact</a>
              <a style="color:red; padding:1em; ; " href="/about">About</a>
+<<<<<<< HEAD
              <a style="color:red; padding:1em; ; " href="/products">Products</a>
+=======
+>>>>>>> 3f94b3819423fc70a796243d7cc58ba7153b96c1
         </nav>
             {{ $slot }}
         

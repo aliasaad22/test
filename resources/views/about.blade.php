@@ -3,6 +3,7 @@
     Welcome to our site
 </x-card>
 
+<<<<<<< HEAD
 </x-layout>
 @foreach ($informatie as $item)
     <li>Naam: {{ $item['name'] }}</li>
@@ -23,3 +24,6 @@
 <h2>Debug Array</h2>
 
 <pre>{{ json_encode($informatie, JSON_PRETTY_PRINT) }}</pre>
+=======
+</x-layout>
+>>>>>>> 3f94b3819423fc70a796243d7cc58ba7153b96c1

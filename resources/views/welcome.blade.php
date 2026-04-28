@@ -1,6 +1,6 @@
 <x-layout>
 <x-card>
-    Welcome to our site
+    Welcome to our sites
 </x-card>
 
 </x-layout>
